@@ -1,0 +1,50 @@
+# 🤖 HexTech WhatsApp Bot
+
+> 𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝙷𝙴𝚇-𝚃𝙴𝚇𝙷
+
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyERDdGHGjmXPv_6tCBIChmD-svWkJatQlpzfxY5WqFg&s=10" width="300" alt="HexTech Bot"/>
+</p>
+
+---
+
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Node Version](https://img.shields.io/badge/Node-%3E=18-blue)](https://nodejs.org/)
+[![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/Samsmis01/HEXTECH-MD)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue)](https://t.me/hextechcar)
+[![GitHub issues](https://img.shields.io/github/issues/Samsmis01/HEXTECH-MD)](https://github.com/Samsmis01/HEXTECH-MD/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Samsmis01/HEXTECH-MD)](https://github.com/Samsmis01/HEXTECH-MD/network)
+
+---
+
+## 🎯 Description
+
+HexTech Bot est un bot WhatsApp **public et premium**, construit avec [`Baileys`](https://github.com/adiwajshing/Baileys).  
+Il permet d’automatiser ton compte ou un groupe avec des commandes puissantes :
+
+- ✅ Gestion de **fake recording**  
+- ✅ Interception et récupération de **view-once**  
+- ✅ Commandes de **sudo / admin / promote / demote**  
+- ✅ Création de **stickers** et **stickers animés**  
+- ✅ Téléchargement **musique / vidéos**  
+- ✅ Gestion avancée des groupes (**mute**, **freeze**, **anti-link**)  
+
+Le bot est conçu pour rester **online**, flexible et sécurisé pour ton compte.
+
+---
+
+## ⚙️ Installation
+
+```bash
+# Cloner le repo
+git clone https://github.com/Samsmis01/HEXTECH-MD.git
+cd HEXTECH-MD
+
+# Installer les dépendances
+npm install
+
+# Installer sharp pour stickers
+npm install sharp
+
+# Lancer le bot
+node index.js
