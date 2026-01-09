@@ -20,16 +20,21 @@
 ## 🎯 Description
 
 HexTech Bot est un bot WhatsApp **public et premium**, construit avec [`Baileys`](https://github.com/adiwajshing/Baileys).  
-Il permet d’automatiser ton compte ou un groupe avec des commandes puissantes :
+Développé par **HEX-TECH 🇨🇩**, ce bot permet d’automatiser ton compte ou un groupe avec des commandes puissantes :
 
-- ✅ Gestion de **fake recording**  
-- ✅ Interception et récupération de **view-once**  
+- ✅ Gestion de **anti vue unique**  
+- ✅ Interception et récupération de **restaure les messages supprimer**  
 - ✅ Commandes de **sudo / admin / promote / demote**  
 - ✅ Création de **stickers** et **stickers animés**  
 - ✅ Téléchargement **musique / vidéos**  
 - ✅ Gestion avancée des groupes (**mute**, **freeze**, **anti-link**)  
 
 Le bot est conçu pour rester **online**, flexible et sécurisé pour ton compte.
+
+**TELEGRAM :**  
+- Telegram : [https://t.me/hextechcar](https://t.me/hextechcar)  
+- WhatsApp : +243983205767  
+- Email : hextech243@gmail.com
 
 ---
 
