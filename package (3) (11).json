@@ -1,0 +1,14 @@
+{
+  "name": "hexgate-bot",
+  "version": "5.2.0",
+  "description": "HEXGATE WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "install": "echo \"Installation des dépendances...\""
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.21",
+    "pino": "^8.21.0"
+  }
+}
