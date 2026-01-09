@@ -1,6 +1,6 @@
 # 🤖 HexTech WhatsApp Bot
 
-> 𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝙷𝙴𝚇-𝚃𝙴𝚇𝙷
+> 𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝙷𝙴𝚇-𝚃𝙴𝙲𝙷
 
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyERDdGHGjmXPv_6tCBIChmD-svWkJatQlpzfxY5WqFg&s=10" width="300" alt="HexTech Bot"/>
