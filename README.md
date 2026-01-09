@@ -25,11 +25,11 @@ Développé par **HEX-TECH 🇨🇩**, ce bot permet d’automatiser ton compte 
 - ✅ Gestion de **anti vue unique**  
 - ✅ Interception et récupération de **restaure les messages supprimer**  
 - ✅ Commandes de **sudo / admin / promote / demote**  
-- ✅ Création de **stickers** et **stickers animés**  
+- ✅ destruction **shimmers** et **cataclysme**  
 - ✅ Téléchargement **musique / vidéos**  
-- ✅ Gestion avancée des groupes (**mute**, **freeze**, **anti-link**)  
+- ✅ Gestion avancée des groupes (**kickall**, **freeze**, **anti-link**)  
 
-Le bot est conçu pour rester **online**, flexible et sécurisé pour ton compte.
+Le bot est conçu pour rester **online**, flexible même si ton téléphone est éteint et sécurisé pour ton compte.
 
 **TELEGRAM :**  
 - Telegram : [https://t.me/hextechcar](https://t.me/hextechcar)  
@@ -42,14 +42,8 @@ Le bot est conçu pour rester **online**, flexible et sécurisé pour ton compte
 
 ```bash
 # Cloner le repo
+pkg install nodejs
 git clone https://github.com/Samsmis01/HEXTECH-MD.git
 cd HEXTECH-MD
-
-# Installer les dépendances
-npm install
-
-# Installer sharp pour stickers
-npm install sharp
-
 # Lancer le bot
 node index.js
