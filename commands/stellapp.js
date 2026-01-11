@@ -1,5 +1,5 @@
 module.exports = {
-  name: "stealpp",
+  name: "stellapp",
   description: "Récupère la photo de profil d’un utilisateur",
   execute: async (sock, msg) => {
     const from = msg.key.remoteJid;
