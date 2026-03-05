@@ -1,4 +1,4 @@
-# 🤖 HEX-GATE V2 WhatsApp Bot
+# 🤖 HEX-GATE V3 WhatsApp Bot
 
 > 𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙷𝙴𝚇-𝚃𝙴𝙲𝙷
 
